@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS assurance_360;
+USE assurance_360;
